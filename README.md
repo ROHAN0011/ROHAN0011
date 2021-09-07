@@ -10,7 +10,7 @@ Welcome to GitHub,
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ROHAN0011&hide_title=true&hide_border=true&langs_count=2
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ROHAN0011&hide_title=true&hide_border=true&langs_count=5
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
