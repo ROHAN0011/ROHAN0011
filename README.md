@@ -3,8 +3,8 @@
 Welcome to GitHub,
 
 - :sunglasses: I’m @ROHAN0011 you can call me Rony Bhaai.
-- 👀 Interested in learning new technologies
-- 🌱 Currently exploring myself
+- 👀 Interested in learning new technologies.
+- 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
 
 
