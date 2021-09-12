@@ -22,7 +22,7 @@ Welcome to GitHub,
 </p>
 
    
-Again Welcome to our GitHub family and thanks for visiting this profile !
+Again, welcome to our GitHub family and thanks for visiting this profile !
 :pray: :pray: :pray:
 
 <!---
