@@ -19,7 +19,6 @@ Welcome to GitHub,
 </p>
 
 
-
 Again, welcome to our GitHub family and thanks for visiting this profile !
 :pray: :pray: :pray:
 
