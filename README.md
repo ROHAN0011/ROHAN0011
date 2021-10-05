@@ -7,7 +7,6 @@ Welcome to GitHub,
 - 💞️ Looking to collaborate with Dumb-genius ;)
 
 
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
