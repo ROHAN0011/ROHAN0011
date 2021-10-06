@@ -2,7 +2,7 @@
 
 
 Welcome to GitHub,
-- :sunglasses: I’m @ROHAN0011 you can call me Rony Bhaai.
+- :sunglasses: I’m Rohan Kasabe from Pandharpur, Maharashtra, India.
 - 👀 Interested in learning new technologies.
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
