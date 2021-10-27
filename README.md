@@ -33,7 +33,7 @@ Welcome to GitHub,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104)](https://github-profile-trophy.vercel.app/?username=kamyu104)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104)](https://github-profile-trophy.vercel.app/?username=ROHAN0011)
 
 
 Again, welcome to our GitHub family and thanks for visiting this profile !
