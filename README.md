@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 Welcome to GitHub,
@@ -28,15 +28,15 @@ Welcome to GitHub,
 </p>
 
 
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
 [![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&line_height=20&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
 
-## 🏆 GitHub Trophy
+### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011)
 
 
-Again, welcome to our GitHub family and thanks for visiting this profile !
+<h2> Again, welcome to our GitHub family and thanks for visiting this profile ! </h2>
 :pray: :pray: :pray:
 
 
