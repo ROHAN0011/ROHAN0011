@@ -33,6 +33,9 @@ Welcome to GitHub,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
 
 
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011)
+
 
 <h3> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
 :pray: :pray: :pray:
