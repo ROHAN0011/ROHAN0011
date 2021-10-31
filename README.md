@@ -40,6 +40,16 @@ Welcome to GitHub,
 <h3> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
 :pray: :pray: :pray:
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JSX          8 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.52 % 
+JavaScript   5 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
+<!--END_SECTION:waka-->
 
 <!---
 ROHAN0011/ROHAN0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
