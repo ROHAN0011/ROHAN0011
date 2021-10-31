@@ -1,6 +1,5 @@
 ## Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-//![](https://visitor-badge.glitch.me/badge?page_id=ROHAN0011.ROHAN0011)
 Welcome to GitHub,
 - :sunglasses: I’m Rohan Kasabe from Pandharpur, Maharashtra, India.
 - 👀 Interested in learning new technologies.
