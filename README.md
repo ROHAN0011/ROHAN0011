@@ -6,7 +6,6 @@ Welcome to GitHub,
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
 
-<img align="" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
