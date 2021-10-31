@@ -1,6 +1,6 @@
 ## Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=ROHAN0011.ROHAN0011)
 Welcome to GitHub,
 - :sunglasses: I’m Rohan Kasabe from Pandharpur, Maharashtra, India.
 - 👀 Interested in learning new technologies.
@@ -39,17 +39,6 @@ Welcome to GitHub,
 
 <h3> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
 :pray: :pray: :pray:
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          8 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.52 % 
-JavaScript   5 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-<!--END_SECTION:waka-->
 
 <!---
 ROHAN0011/ROHAN0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
