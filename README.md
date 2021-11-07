@@ -32,7 +32,7 @@ Welcome to GitHub,
 
 
 ### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
 https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true
 
