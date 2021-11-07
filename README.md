@@ -37,8 +37,6 @@ Welcome to GitHub,
 
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&theme=dracula)
 
-![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&theme=nord)
-
 
 <h3> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
 :pray: :pray: :pray:
