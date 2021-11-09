@@ -31,7 +31,6 @@ Welcome to GitHub,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)](https://activity-graph.herokuapp.com/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula)
 
 ### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
