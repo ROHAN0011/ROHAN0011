@@ -27,9 +27,9 @@ Welcome to GitHub,
 
 
 ### 📈 GitHub Stats
-[![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)
+[![ROHAN0011's GitHub Stats]](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)
 
 
 ### 🏆 GitHub Trophy
