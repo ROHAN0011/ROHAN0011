@@ -35,15 +35,16 @@ Welcome to GitHub,
 ### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
+
+![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)
+
 <div align="center">
   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula)  
   
 </div>
 
-![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)
 
-  
 <h3> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
 :pray: :pray: :pray:
 
