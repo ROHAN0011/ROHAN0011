@@ -27,7 +27,7 @@ Welcome to GitHub,
 
 
 ### 📈 GitHub Stats
-[![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)
+[![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)](https://activity-graph.herokuapp.com/graph?username=G1Joshi&area=true&hide_border=true&theme=dracula)
 
