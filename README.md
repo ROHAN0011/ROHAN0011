@@ -36,9 +36,8 @@ Welcome to GitHub,
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
 ### ✔️ Contribution
-<div align="center">
-![Card]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHAN0011&theme=vue") 
-</div>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=dracula" />
 
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)
 
