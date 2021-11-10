@@ -39,10 +39,10 @@ Welcome to GitHub,
 
 <div align="center">
   
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHAN0011&theme=vue" />
-
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)
-  
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHAN0011&theme=dracula" />
+    
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula)  
   
 </div>
