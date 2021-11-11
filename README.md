@@ -46,8 +46,8 @@ Welcome to GitHub,
 </div>
 
 
-<h2> Again, welcome to our GitHub family and thanks for visiting this profile ! </h3>
-##:pray: :pray: :pray:
+<h2> Again, welcome to our GitHub family and thanks for visiting this profile ! </h2>
+:pray: :pray: :pray:
 
 
 <!---
