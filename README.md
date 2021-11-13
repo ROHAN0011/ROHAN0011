@@ -37,7 +37,6 @@ Welcome to GitHub,
 
 
 ### ✔️ Contribution
-
 <div align="center">
   
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)
