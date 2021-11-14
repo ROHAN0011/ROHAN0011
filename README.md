@@ -1,6 +1,6 @@
 # Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CF724&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rohan+Kasabe;%E2%80%8D%F0%9F%92%BB+So+called+Programmer.;%F0%9F%94%AD+Currently+pursuing+B.Tech+in+ENTC;At+SKN%20Sinhgad%20College%20of%20Engineering%20.;Loves+to+try+new+things.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CF724&lines=I%27m+Rohan+Kasabe;%E2%80%8D%F0%9F%92%BB+So+called+Programmer.;%F0%9F%94%AD+Currently+pursuing+B.Tech+in+ENTC;At+SKN%20Sinhgad%20College%20of%20Engineering%20.;Loves+to+try+new+things.;)](https://git.io/typing-svg)
 
 
 Welcome to GitHub,
