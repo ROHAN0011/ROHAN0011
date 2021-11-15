@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CF724&lines=Welcome+to+GitHub;I%27m+Rohan+Kasabe;%E2%80%8D%F0%9F%92%BB+So+called+Programmer.;%F0%9F%94%AD+Pursuing+B.Tech+in+ENTC;At+SKNSCOE,%20%20 Pandharpur%20.;Loves+to+try+new+things.;)](https://git.io/typing-svg)
 
 
-- :india: A Proud Indian.
+- ♥ A Proud Indian.
 - 👀 Interested in learning new technologies.
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
