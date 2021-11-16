@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CF724&lines=%F0%9F%99%8F%22Welcome+to+GitHub%22;%F0%9F%98%8E%20I%27m+Rohan+Kasabe,;%E2%80%8D%20%F0%9F%8C%8F+From+Pandharpur,+MH13,+India.;%F0%9F%8E%AF%20Pursuing+B.Tech+in+ENTC.;%F0%9F%8F%A8%20At+SKNSCOE,%20%20%20Pandharpur%20.;%F0%9F%A7%AA%20Loves+to+try+new+things.;)](https://git.io/typing-svg)
 
-- ♥ A Proud Indian.
+- ♥ A Proud Indian. :india:
 - 👀 Interested in learning new technologies.
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
