@@ -41,9 +41,9 @@
   
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)    
  
-<centre>
+<center>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula) 
-</centre>
+</center>
 
 <h2> Again, welcome to our GitHub family and thanks for visiting this profile ! </h2>
 :pray: :pray: :pray:
