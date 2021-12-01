@@ -37,7 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
 
-### ✔️ Contribution
+### ✔️ Contributions
 
 <div align="center">
   
