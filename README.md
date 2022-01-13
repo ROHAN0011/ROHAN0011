@@ -27,6 +27,15 @@
 </p>
 
 
+<h4><b><samp>Coding Profiles</samp></b></h4>
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Hard-Coder05/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hard__coder)
+
+<br/><br/>
+
+
 ### 📈 GitHub Stats
 [![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
 
