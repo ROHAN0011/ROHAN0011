@@ -32,7 +32,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/rohankasabe1001)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ronybhaai_1001)
 
-<br/><br/>
+<br/>
 
 
 ### 📈 GitHub Stats
