@@ -27,7 +27,7 @@
 </p>
 
 
-<h4><b>Coding Profiles</b></h4>
+<h4><b>Coding Profiles :</b></h4>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Hard-Coder05/)
