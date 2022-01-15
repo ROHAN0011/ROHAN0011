@@ -41,7 +41,7 @@
 
 
 ### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true&theme=vue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
 
 ### ✔️ Contributions
