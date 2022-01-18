@@ -56,8 +56,8 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula) 
 </div>
 
-
-<h2> Again, welcome to our GitHub family !!! :pray: :pray: :pray:</h2>
-
+<div align="center">
+<h2>:pray: :pray: :pray:</h2>
+</div>
 
 <img height="100" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
