@@ -53,5 +53,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula) 
 </div>
 
+<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
+
 <h2> Again, welcome to our GitHub family and thanks for visiting this profile ! </h2>
 :pray: :pray: :pray:
