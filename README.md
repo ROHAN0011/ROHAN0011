@@ -57,7 +57,7 @@
 </div>
 
 
-<h2> Again, welcome to our GitHub family !!! </h2>
+<h2> Again, welcome to our GitHub family !!! :pray: :pray: :pray:</h2>
 :pray: :pray: :pray:
 
 
