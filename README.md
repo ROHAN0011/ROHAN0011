@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-<h2>:pray: :pray: :pray:</h2>
+<h2>:pray: :pray: :pray: :pray: :pray:</h2>
 </div>
 
 <img height="100" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
