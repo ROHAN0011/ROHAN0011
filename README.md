@@ -5,10 +5,11 @@
 
 - ♥ A Proud Indian.
 - 👀 Interested in learning new technologies.
+<img align="right" alt="GIF" src="code.gif?raw=true" width="50%" height="400" />
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
 
-<img align="right" alt="GIF" src="code.gif?raw=true" width="50%" height="400" />
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
