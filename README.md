@@ -60,4 +60,4 @@
 <h2> Again, welcome to our GitHub family !!! :pray: :pray: :pray:</h2>
 
 
-<img height="80" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="100" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
