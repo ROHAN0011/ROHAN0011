@@ -41,7 +41,6 @@
 
 <br/>
 
-![](https://github.com/ROHAN0011/ROHAN0011/blob/main/footer.png)
 
 ### 📈 GitHub Stats
 [![ROHAN0011's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api?username=ROHAN0011&show_icons=true&layout=compact&theme=vue)
@@ -64,4 +63,4 @@
 
 ![](https://github.com/ROHAN0011/ROHAN0011/blob/main/footer.png)
 
-<img height="100" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="50" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
