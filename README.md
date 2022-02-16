@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="code.gif?raw=true" width="60%" height="270" />
 
-- ♥ A Proud Indian.
+- ♥ A Proud Indian.https://slackmojis.com/emojis/43065-india/download
 - 👀 Interested in learning new technologies.
 - 🌱 Currently exploring myself.
 - 💞️ Looking to collaborate with Dumb-genius ;)
