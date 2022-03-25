@@ -47,7 +47,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=vue)
 
-<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/57a201a9a4404b5525a9bc57b72bf52d5708fe63/NUX_Octodex.gif" width="30%" height="50"/>
+<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/57a201a9a4404b5525a9bc57b72bf52d5708fe63/NUX_Octodex.gif" width="30%" height="150"/>
 
 
 ### 🏆 GitHub Trophy
