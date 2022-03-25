@@ -49,7 +49,7 @@
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/57a201a9a4404b5525a9bc57b72bf52d5708fe63/NUX_Octodex.gif" width="35%" height="215"/>
 
 
-### 🏆 GitHub Trophy
+### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROHAN0011)](https://github-profile-trophy.vercel.app/?username=ROHAN0011&no-bg=true)
 
 
