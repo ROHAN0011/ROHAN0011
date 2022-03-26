@@ -81,15 +81,16 @@
 
 ### ✔️ Contributions
 
-<div align="centre">
+<div align="center">
   
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)    
  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula) 
 </div>
 
-<img align="center" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/f317a0a996a08ce7eeec1e1307ca2876204ea5af/Indian%20Flag.gif" width="60%" height="270"/>
 
 ![](https://github.com/ROHAN0011/ROHAN0011/blob/main/footer.png)
+
+<img align="center" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/f317a0a996a08ce7eeec1e1307ca2876204ea5af/Indian%20Flag.gif" width="60%" height="270"/>
 
 <img height="50" alt="" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
