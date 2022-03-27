@@ -64,7 +64,7 @@
 
   
   
-<img align="center" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/f317a0a996a08ce7eeec1e1307ca2876204ea5af/Indian%20Flag.gif" width="50%" height="230"/>
+<b><img align="center" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/f317a0a996a08ce7eeec1e1307ca2876204ea5af/Indian%20Flag.gif" width="50%" height="230"/> <br/>
 </div>
   
 ![](https://github.com/ROHAN0011/ROHAN0011/blob/main/footer.png)
