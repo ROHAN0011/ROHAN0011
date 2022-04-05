@@ -56,12 +56,11 @@
 
 ### ✔️ Contributions
 
+<img align="center" alt="GIF" src="code.gif?raw=true" width="80%" height="270"/>
+
 <div align="center">
   
 ![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=dracula)    
-
-<img align="center" alt="GIF" src="code.gif?raw=true" width="70%" height="280"/>   
-
   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN0011&hide_border=true&theme=dracula) 
   
