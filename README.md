@@ -56,7 +56,7 @@
 
 ### ✔️ Contributions
 
-<img align="center" alt="GIF" src="code.gif?raw=true" width="700%" height="700"/>
+<img align="center" alt="GIF" src="code.gif?raw=true" width="700%" height="500"/>
 
 
 <div align="center">
