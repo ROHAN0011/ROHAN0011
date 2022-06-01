@@ -1,9 +1,9 @@
-# Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# Hi there <a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 [![Typing SVG](https://readmetypingsvg.herokuapp.com/?color=0CF724&lines=%F0%9F%99%8F%22Welcome+to+GitHub%22;%F0%9F%98%8E%20I%27m+Rohan+Kasabe,;%E2%80%8D%20%F0%9F%8C%8F+From+Pandharpur,+MH13,+India.;%F0%9F%8E%AF%20Pursuing+B.Tech+in+ENTC.;%F0%9F%8F%A2%20From+SKNSCOE,%20%20%20Pandharpur%20.;%F0%9F%A7%AA%20Loves+to+try+new+things.;)](https://git.io/typing-svg)
 
 
-<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="80%" height="180"/>
+<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="80%" height="250"/>
 
 - ♥ A Proud Indian.
 - 👀 Interested in learning new technologies.
