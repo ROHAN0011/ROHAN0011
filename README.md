@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&langs_count=10&hide_border=true&layout=compact&theme=vue)](https://activity-graph.herokuapp.com/graph?username=ROHAN0011&area=true&hide_border=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&layout=compact)](https://github.com/ROHAN0011/github-readme-stats)
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/57a201a9a4404b5525a9bc57b72bf52d5708fe63/NUX_Octodex.gif" width="30%" height="200"/>
 
 
