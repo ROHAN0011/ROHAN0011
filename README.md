@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Rohan+;Lifelong+Learner+%26+Working+as+a;%22Technical+Developer%22+in+RNTBCI;Let's+Connect+!)](https://git.io/typing-svg)
 
 
-<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="60%" height="250"/>
+<img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="50%" height="250"/>
 
 - ♥ A Proud Indian.
 - 👀 Interested in learning new technologies.
