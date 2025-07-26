@@ -8,7 +8,7 @@
 - ♥ A Proud Indian.
 - 👀 Interested in learning new technologies.
 - 🌱 Currently exploring myself.
-- 💞️ Looking to collaborate with Dumb-genius ;)
+- 💞️ Collaborating with Dumb-genius ;)
 
 
 <details>
