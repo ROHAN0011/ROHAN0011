@@ -1,5 +1,6 @@
 # Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Rohan+;Lifelong+Learner+%26+Working+as+a;%22Observability+Engineer%22+in+RNTBCI;Let's+Connect+!)](https://git.io/typing-svg)
 
 
