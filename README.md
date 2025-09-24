@@ -1,7 +1,7 @@
 # Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50px"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Rohan+;Lifelong+Learner+%26+Working+as+a;%22Site+Reliability+Engineer%22+at+Renault+Group;Let's+Connect+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Rohan+;Lifelong+Learner+%26+Working+as+a;%22SRE%22+at+Renault+Group;Let's+Connect+!)](https://git.io/typing-svg)
 
 
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="50%" height="250"/>
