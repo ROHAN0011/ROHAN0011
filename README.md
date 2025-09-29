@@ -21,6 +21,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.dynatrace.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynatrace/dynatrace-original.svg" alt="dynatrace" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://github.com/ target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
