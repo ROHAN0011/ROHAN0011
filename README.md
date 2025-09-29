@@ -6,11 +6,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="50%" height="250"/>
 
--  ♥ Proud Indian. : IN :
+- ♥️ Proud Indian.
 - 👀 Interested in learning new technologies.
-- 🌱 Currently exploring myself.
-- 💞️ Collaborating with Dumb-genius ;)
-
+- 🌱 Always exploring something.
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
